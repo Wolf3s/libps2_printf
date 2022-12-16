@@ -23,7 +23,7 @@ Install [ps2dev](https://github.com/ps2dev/ps2dev) and his whole package and the
 ``$ make install `` to get the library running.
 
 to link the library just copy and past this on the ``Makefile``
-``EE_LIBS += -lps2_drivers -ldebug``
+``EE_LIBS += -lps2_printf -ldebug``
 
 ## Comparison and example
 
