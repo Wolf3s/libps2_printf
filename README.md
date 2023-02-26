@@ -142,7 +142,9 @@ Some printfs showcase.
 ## License:
 
 BSD 2-Clause license
-Copyright André Guilherme
+
+## Copyright:
+André Guilherme
 
 ## Known issues:
 
